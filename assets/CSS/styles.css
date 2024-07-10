@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  #current-weather {
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  #forecast .forecast-card {
+    width: 18%;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
