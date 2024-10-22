@@ -1,4 +1,4 @@
-# Module_6
+# Weather_UI
 Weather app for each country and state.
 https://lateralmonster1.github.io/Module_6/
 https://github.com/lateralmonster1/Module_6.git
